@@ -11,7 +11,7 @@ setup(
 	url = 'http://rapidhouse.nitkc.org/',
 	keywords = 'ga tune server automation',
 	packages = find_packages(),
-	install_requires = ['paramiko', 'scp', 'requests'],
+	install_requires = ['paramiko', 'scp', 'requests', 'argparse'],
 	entry_points = {
 		'console_scripts': [
 			'rapidhouse = rapidhouse.rapid_house:main'
