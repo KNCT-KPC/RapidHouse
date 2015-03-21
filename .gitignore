@@ -1,0 +1,14 @@
+*.pyc
+/*.pyc
+.cache/
+__pycache__/
+/.cache/
+/__pycache__/
+rapidhouse.egg-info/
+dist/
+build/
+id_rsa*
+/id_rsa*
+mysql.ini
+*.log
+/*.log
