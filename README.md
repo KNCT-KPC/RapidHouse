@@ -1,6 +1,6 @@
 RapidHouse
 ==========
-A automated tuning-tool for a server application that run on Python 2.7.x.
+A automated tuning-tool for a server application by GA(Genetic Algorithm).
 RapidHouse was published in [Programming Contest](http://www.procon.gr.jp/).
 
 A innovative feature of RapidHouse is to use a own database by communicating with Internet.
