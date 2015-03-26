@@ -9,12 +9,18 @@ You quickly get the solution by the database.
 
 ## How to use
 
-    $ pip install git+https://github.com/KNCT-KPC/RapidHouse
+    $ sudo pip install git+https://github.com/KNCT-KPC/RapidHouse
     $ rapidhouse rapidhouse_config_file.ini
 
 ## See also
 
   * [RapidHouse’s documentation](http://rapidhouse.nitkc.org/)
+
+## Error handling
+
+    $ sudo apt-get python-dev	# or `yum install python-devel`
+    $ sudo easy_install --upgrade pip
+    $ sudo pip install --upgrade setuptools distribute
 
 ## Contact us
 

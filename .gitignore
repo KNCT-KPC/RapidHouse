@@ -12,3 +12,7 @@ id_rsa*
 mysql.ini
 *.log
 /*.log
+.DS_Store
+*.swp
+*.swo
+*.egg-info/
