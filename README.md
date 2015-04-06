@@ -11,7 +11,7 @@ You quickly get the solution by the database.
 ## Quick Try
 
 We prepared a base image for Vagrant that RapidHouse and WordPress is installed.
-This image is based on `2creatives/vagrant-centos CentOS 6.5 x86_64 Minimal <https://github.com/2creatives/vagrant-centos/releases/tag/v6.5.3>`_.
+This image is based on [2creatives/vagrant-centos CentOS 6.5 x86_64 Minimal](https://github.com/2creatives/vagrant-centos/releases/tag/v6.5.3).
 You use this image as follows:
 
     $ wget http://rapidhouse.nitkc.org/vagrant/v0.0.1/Vagrantfile
