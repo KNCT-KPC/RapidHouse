@@ -82,7 +82,7 @@ A settings for logging of tuning.
 
 level
 	A level of the log.
-	You should set either "log" or "info".
+	You should set either "info" or "debug".
 file
 	A PATH of the log file of RapidHouse.
 
