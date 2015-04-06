@@ -18,8 +18,9 @@ You quickly get the solution by the database.
 
 ## Error handling
 
-    $ sudo apt-get python-dev	# or `yum install python-devel`
+    $ sudo apt-get python-dev python-setuptools # or `yum install python-devel python-setuptools`
     $ sudo easy_install --upgrade pip
+    $ sudo pip install --upgrade setuptools
     $ sudo pip install --upgrade setuptools distribute
 
 ## Contact us
