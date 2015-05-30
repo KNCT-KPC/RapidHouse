@@ -9,4 +9,3 @@ Extract a best score
 
    $ grep "\[score:best\]" USAGI.log | cut -d' ' -f3
 
-

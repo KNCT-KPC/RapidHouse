@@ -1,11 +1,11 @@
 Tutorial
 ========
-This section is tutorial for RapidHouse.
+This section is a tutorial for RapidHouse.
 
 ------------
 Installation
 ------------
-This section explain how to install RapidHouse via GitHub.
+This section explains how to install RapidHouse via GitHub.
 
 .. code-block:: bash
 
@@ -18,12 +18,12 @@ It's so easy.
 -----
 Usage
 -----
-This section explain how to tune Apache HTTP Server.
+This section explains how to tune Apache HTTP Server.
 
 
-Prepare a configulation file for the server application.
+Prepare a configuration file for the server application.
 --------------------------------------------------------
-You must prepare the configulation file for the server application.
+You must prepare the configuration file for the server application.
 
 .. code-block:: bash
 
@@ -35,9 +35,9 @@ Then, you change some parameter value as follows:
 .. literalinclude:: httpd.diff
 
 
-Prepare a configulation file for RapidHouse.
+Prepare a configuration file for RapidHouse.
 ---------------------------------------------
-You must prepare the configulation file for RapidHouse as follows:
+You must prepare the configuration file for RapidHouse as follows:
 
 .. literalinclude:: ../../rapidhouse/rapid_house.ini
 
@@ -56,5 +56,5 @@ Be caught up in the darkness!
 
 
 When you satisfied with a result of tuning, you should stop RapidHouse.
-In Addition, RapidHouse stop when the approximate solution is unchanged.
+In Addition, RapidHouse stops when the approximate solution is unchanged.
 

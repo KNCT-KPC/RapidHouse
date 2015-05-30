@@ -1,14 +1,14 @@
 About
 =====
-This section explain RapidHouse.
+This section explains RapidHouse.
 
 --------
 Overview
 --------
-RapidHouse is a automated tuning-tool for a server application that use GA(Genetic Algorithm) as a algorithm for tuning.
+RapidHouse is an automated tuning tool for a server application that use GA(Genetic Algorithm) as an algorithm for tuning.
 
 RapidHouse is available to a server application such as Apache and MySQL that use a file for configuration.
-RapidHouse tune the server application by rewriting the configulation file according to a template file.
+RapidHouse tunes the server application by rewriting the configuration file, according to a template file.
 
 The template file example as follows:
 
@@ -35,8 +35,8 @@ By the way, RapidHouse was published in `Programming Contest <http://www.procon.
 ------------------
 Innovative feature
 ------------------
-A innovative feature of RapidHouse is to use a own database by communicating with Internet.
-The database has information that a approximate solution for the server application.
+An innovative feature of RapidHouse is to use an own database by communicating with the internet.
+The database has information that an approximate solution for the server application.
 
 .. image:: Images/fig-rh-flow.png
     :width: 50%
@@ -44,7 +44,8 @@ The database has information that a approximate solution for the server applicat
 
 You quickly get the solution by the database.
 
-If you didn't edit a program of RapidHouse, RapidHouse will sent the database a information as follows:
+If you didn't edit a program of RapidHouse, RapidHouse will send an information to the database.
+The information includes following items.
 
   - about Hardware
      - CPU Vendor
@@ -55,7 +56,7 @@ If you didn't edit a program of RapidHouse, RapidHouse will sent the database a 
      - Memory Size
   - about Software
      - Server Application Name
-     - Benchmark Command(**Don't include a your password.**)
+     - Benchmark Command(**Shouldn't include your password.**)
   - about Solution
      - Approximate Solution
      - Result of benchmark
@@ -66,7 +67,7 @@ You should cooperate to improve the database.
 ---------
 Let's try
 ---------
-| We prepared a base image for Vagrant that RapidHouse and WordPress is installed.
+| We prepared a base image for Vagrant that RapidHouse and WordPress are installed.
 | http://rapidhouse.nitkc.org/vagrant/v0.0.1/rapidhouse.box
 | http://rapidhouse.nitkc.org/vagrant/v0.0.1/Vagrantfile
 

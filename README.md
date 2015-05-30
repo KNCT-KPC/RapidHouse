@@ -1,16 +1,16 @@
 RapidHouse
 ==========
-A automated tuning-tool for a server application by GA(Genetic Algorithm).
+An automated tuning tool for a server application by GA(Genetic Algorithm).
 RapidHouse was published in [Programming Contest](http://www.procon.gr.jp/).
 
-A innovative feature of RapidHouse is to use a own database by communicating with Internet.
-The database has information that a approximate solution for the server application.
+An innovative feature of RapidHouse is to use an own database by communicating with the internet.
+The database has information that an approximate solution for the server application.
 You quickly get the solution by the database.
 
 
 ## Quick Try
 
-We prepared a base image for Vagrant that RapidHouse and WordPress is installed.
+We prepared a base image for Vagrant that RapidHouse and WordPress are installed.
 This image is based on [2creatives/vagrant-centos CentOS 6.5 x86_64 Minimal](https://github.com/2creatives/vagrant-centos/releases/tag/v6.5.3).
 You use this image as follows:
 
