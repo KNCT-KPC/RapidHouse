@@ -1,7 +1,7 @@
 RapidHouse
 ==========
-An automated tuning tool for a server application by GA(Genetic Algorithm).
-RapidHouse was published in [Programming Contest](http://www.procon.gr.jp/).
+An automated tuning tool for a server application by Genetic Algorithm.
+RapidHouse was published in [Programming Contest](http://www.procon.gr.jp/) and got a BroadLeaf Co., Ltd prize.
 
 An innovative feature of RapidHouse is to use an own database by communicating with the internet.
 The database has information that an approximate solution for the server application.
