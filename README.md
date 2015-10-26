@@ -48,16 +48,7 @@ But the best solution might have already derived by the database.
 ## Contact us
 
 In Japanese or very easy English, please.
-
-### Academic contact
-
-  * National Institute of Technology, Kushiro College / 釧路工業高等専門学校
-  * Advanced Course / 専攻科
-  * Yuusuke Morikoshi / 森越友祐
-  * mailto: base64\_decode("czE0MDcxM0BjYy5rdXNoaXJvLWN0LmFjLmpw")
-
-### Other contact
-
+ 
+  * `yuke1222@gmail.com`
   * `whois nitkc.org`
   * `whois -h whois.charlestonroadregistry.com xn--vckq4ald8kl4jk9f.xn--q9jyb4c`
-
